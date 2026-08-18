@@ -1,0 +1,10 @@
+/Users/serbanbazga/Desktop/PersonalProjects/rustMicroservice/target/debug/deps/env_filter-0461e20745e54e71.d: /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/lib.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/directive.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/filter.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/filtered_log.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/op.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/parser.rs
+
+/Users/serbanbazga/Desktop/PersonalProjects/rustMicroservice/target/debug/deps/libenv_filter-0461e20745e54e71.rmeta: /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/lib.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/directive.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/filter.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/filtered_log.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/op.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/parser.rs
+
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/lib.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/directive.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/filter.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/filtered_log.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/op.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/env_filter-2.0.0/src/parser.rs:

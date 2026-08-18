@@ -1,11 +1,11 @@
 [package]
 name = "microservice_rs"
 version = "0.1.0"
-authors = ["you <you@email>"]
+edition = "2018"
+authors = ["Bazga <serbanbazga12@gmail.com>"]
 
 [dependencies]
-env_logger = "0.11.11"
-futures = "0.3.33"
-hyper = "1.11.0"
+env_logger = "0.5.3"
+futures = "0.1.17"
+hyper = "0.11.13"
 log = "0.4.1"
-clippy = "0.1.14"

@@ -1,0 +1,11 @@
+/Users/serbanbazga/Desktop/PersonalProjects/rustMicroservice/target/debug/deps/base64-751b200f903b2fe6.d: /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/lib.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/chunked_encoder.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/display.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/line_wrap.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/tables.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/encode.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/decode.rs
+
+/Users/serbanbazga/Desktop/PersonalProjects/rustMicroservice/target/debug/deps/libbase64-751b200f903b2fe6.rmeta: /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/lib.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/chunked_encoder.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/display.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/line_wrap.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/tables.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/encode.rs /Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/decode.rs
+
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/lib.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/chunked_encoder.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/display.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/line_wrap.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/tables.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/encode.rs:
+/Users/serbanbazga/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base64-0.9.3/src/decode.rs:
